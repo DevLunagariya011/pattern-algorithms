@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Pattern Algorithms
 
 A collection of mathematically elegant approaches to printing patterns in C, demonstrating alternative problem-solving techniques beyond traditional nested loops.
