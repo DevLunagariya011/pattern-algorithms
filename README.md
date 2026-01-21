@@ -37,21 +37,6 @@ gcc concentric_square.c -o concentric_square
 ./concentric_square
 ```
 
-## Philosophy
-
-This repository demonstrates that:
-- Multiple valid solutions exist for the same problem
-- Mathematical insight can simplify code structure
-- Traditional approaches aren't always the only way
-
-## Features
-
-- ✅ Well-documented algorithms
-- ✅ Mathematical proofs included
-- ✅ Complexity analysis
-- ✅ Clean, readable code
-- ✅ Ready-to-compile examples
-
 ## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](./docs/contributing.md) for guidelines.
