@@ -11,7 +11,7 @@
  * Compile: gcc triangle.c -o triangle
  * Run: ./triangle
  * 
- * Author: [Your Name]
+ * Author: Dev Lunagariya
  * Date: January 2026
  * License: MIT
  */
