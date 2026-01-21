@@ -1,0 +1,14 @@
+# C build files
+*.o
+*.out
+*.exe
+
+# Temporary files
+*~
+*.swp
+
+# VS Code
+.vscode/
+
+# Linux
+a.out
