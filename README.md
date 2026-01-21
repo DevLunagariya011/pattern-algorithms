@@ -21,7 +21,7 @@ Generate concentric square patterns by splitting the grid along a diagonal.
 ## Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pattern-algorithms.git
+git clone https://github.com/DevLunagariya011/pattern-algorithms.git
 cd pattern-algorithms
 
 # Compile and run triangle
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Author
 
-[Your Name]
+Dev Lunagariya
 
 ## Acknowledgments
 
